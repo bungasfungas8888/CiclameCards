@@ -66,6 +66,6 @@ criaCartao(
 
 criaCartao(
     'Geek',
-    'Em um X1 sincero, quem leva. M4rkim ou Basara?',
+    'Em um X1 sincero, quem leva. Anirap ou Basara?',
     'Basara, é óbvio.'
 )
